@@ -1,0 +1,10 @@
+$body_color:royalblue;
+
+body {
+  background-color: $body_color;
+
+  h1 {
+    font-size: 50px;
+    display: flex;
+  }
+}
